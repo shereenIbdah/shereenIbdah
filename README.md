@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shereen Ibdah</h1>
-<h3 align="center">computer engineering student in Birzeit University</h3>
+<h3 align="center">Computer Engineering Student at Birzeit University</h3>
 
 - 📫 How to reach me **sherinibdah@gmail.com**
 
