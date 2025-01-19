@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="mailto:sherinibdah@gmail.com" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="sherinibdah@gmail.com" height="30" width="40" />
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/512px-Gmail_Icon.svg.png" alt="sherinibdah@gmail.com" height="30" width="40" />
     </a>
     <a href="https://fb.com/shereen ibdah" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shereen ibdah" height="30" width="40" />
