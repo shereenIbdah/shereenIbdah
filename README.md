@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shereen Ibdah</h1>
-<h3 align="center">Computer Engineering Student at Birzeit University</h3>
+<h3 align="center">Computer Engineering </h3>
 
 <img align="right" alt="Coding" width="400" src="https://contentstatic.techgig.com/photo/86001236/coding-for-students-learn-with-these-7-apps.jpg?10556">
 
